@@ -13,6 +13,8 @@ This project is WIP. Very very WIP. Expect bugs and glitches.
 
 The itch.io website previously used to host the game has been replaced with this website, and it will no longer be updated.
 
+Controls: W,D to move forward and backward, A,D to turn, E to shoot.
+
 Play the game: https://jonahlauje.github.io/troublesomeTanks
 
 <h2> Changelog </h2>
