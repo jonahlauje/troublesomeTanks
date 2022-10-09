@@ -15,7 +15,7 @@ The itch.io website previously used to host the game has been replaced with this
 
 Controls: W,D to move forward and backward, A,D to turn, E to shoot.
 
-Play the game: https://jonahlauje.github.io/troublesomeTanks
+Play the game: https://jonahlauje.github.io/troublesomeTanks/Play
 
 <h2> Changelog </h2>
 
