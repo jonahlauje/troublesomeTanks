@@ -43,6 +43,8 @@ v1.4 - 16/9/22 - Added an easing animation right before each multiplayer game st
 
 v1.5 - 3/10/22 - Added bullet firing noises and explosion animations when a bullet hits a tank.
 
+v1.5.1 - 12/10/22 - Modified bullet physics slightly; now, bullets will keep on bouncing with no loss of momentum until they despawn.
+
 <h2> Images </h2>
 
 ![image](https://user-images.githubusercontent.com/44395796/193563995-12b01c6a-22d0-477f-ab7c-138885b5ce8b.png)
