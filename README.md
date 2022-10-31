@@ -45,6 +45,8 @@ v1.5 - 3/10/22 - Added bullet firing noises and explosion animations when a bull
 
 v1.5.1 - 12/10/22 - Modified bullet physics slightly; now, bullets will keep on bouncing with no loss of momentum until they despawn.
 
+v1.6 - 31/10/22 - Added new map "Island".
+
 <h2> Images </h2>
 
 ![image](https://user-images.githubusercontent.com/44395796/193563995-12b01c6a-22d0-477f-ab7c-138885b5ce8b.png)
