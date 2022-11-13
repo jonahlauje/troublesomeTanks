@@ -49,6 +49,8 @@ v1.6 - 31/10/22 - Added new map "Island".
 
 v1.6.1 - 1/11/22 - Made some minor improvements to the game.
 
+v1.7 - 13/11/22 - Online multiplayer has been partially implemented. Added new online multiplayer lobby, multiplayer somewhat works but still very glitchy.
+
 <h2> Images </h2>
 
 ![image](https://user-images.githubusercontent.com/44395796/193563995-12b01c6a-22d0-477f-ab7c-138885b5ce8b.png)
