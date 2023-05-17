@@ -51,6 +51,10 @@ v1.6.1 - 1/11/22 - Made some minor improvements to the game.
 
 v1.7 - 13/11/22 - Online multiplayer has been partially implemented. Added new online multiplayer lobby, multiplayer somewhat works but still very glitchy.
 
+v1.10 - 17/5/23 - Made tank rotation speed slightly faster. Added power-ups. Added tips below loading screen
+
+
+
 <h2> Images </h2>
 
 ![image](https://user-images.githubusercontent.com/44395796/193563995-12b01c6a-22d0-477f-ab7c-138885b5ce8b.png)
